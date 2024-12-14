@@ -1,0 +1,11 @@
+To run the door, execute the following command
+
+           mastermind.exe -D [DROPFILE]
+
+where [DROPFILE] is the full path and filename of the dropfile. Ensure
+that the working directory is the MasterMind directory. Use door32.sys
+on windows, and door.sys on linux.
+
+For a full list of available options, type
+
+           mastermind.exe -?
